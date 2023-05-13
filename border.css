@@ -1,0 +1,57 @@
+<html>
+<head>
+<style>
+<body>
+
+{
+  background-color:#E7E9EB;
+}
+#borderdashed {
+   width:100%;
+  height:300px;
+  background-color:#FFFFFF;
+  border:5px solid;
+  border-style: dashed;
+}
+<br>
+<br>
+{
+  background-color:#E7E9EB;
+}
+#borderdotted {
+  width:100%;
+  height:300px;
+  background-color:#FFFFFF;
+  border:5px solid;
+  border-style: dotted;
+}
+<br>
+{
+  background-color:#E7E9EB;
+}
+#bordersolid {
+  width:100%;
+  height:300px;
+  background-color:#FFFFFF;
+  border:5px solid;
+  border-style: solid;
+}
+<br>
+{
+  background-color:#E7E9EB;
+}
+#borderdouble {
+  width:100%;
+  height:300px;
+  background-color:#FFFFFF;
+  border:5px solid;
+  border-style: double;
+}
+.Milk {
+ text-align: center;
+
+}
+
+
+</style>
+</head>
